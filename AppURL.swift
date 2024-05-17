@@ -10,9 +10,9 @@ import Foundation
 enum AppUrl {
     
     static var SCHEME = "https"
-    static var BASEURL = ""
-    static var APIPATCH = "/"
-    static var IMAGEURL = "https://image.tmdb.org/t/p/original"
+    var BASEURL = ""
+    var APIPATCH = "/"
+    var IMAGEURL = ""
 
 }
 
